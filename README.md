@@ -1,1 +1,2 @@
 # Bank-Churn-Rate-Prediction-Using-R
+In this Project I have developed a Customer Churn Rate Prediction model and analysed it’s performance and accuracy using R. The Dataset used was available on Kaggle. Used Box plots and Graphical charts to draw insights from the given data. Correlation Matrix was used for finding relations between continuous data and Chi squared method was used for feature selection. Extracted features were fed to a linear regression model to achieve an accuracy of 85%. 
